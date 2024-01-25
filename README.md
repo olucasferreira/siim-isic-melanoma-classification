@@ -26,7 +26,7 @@ This project was developed in 2020 for educational purposes. The models and code
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/siim-isic-melanoma-classification.git
+   git clone https://github.com/olucasferreira/siim-isic-melanoma-classification.git
   
 2. **Setup Environment:**
 
